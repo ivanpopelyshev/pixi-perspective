@@ -17,6 +17,7 @@
     "url": "https://github.com/pixijs/pixi-perspective.git"
   },
   "dependencies": {
+    "pixi.js": "^3.0.9",
     "gl-matrix": "^2.3.1",
     "gulp-mocha": "^2.1.3"
   },
